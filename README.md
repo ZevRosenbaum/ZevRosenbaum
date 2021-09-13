@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZevRosenbaum
 - 🌱 I’m currently obtaining an M.S. in Computer Science at Northeastern University
-- 📫 Please reach out at zevrosenbaum82@gmail.com
+- 📫 Please reach out at zevrosenbaum82@gmail.com or go to [my website](https://www.zevrosenbaum.com/)
 
 <!---
 ZevRosenbaum/ZevRosenbaum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
