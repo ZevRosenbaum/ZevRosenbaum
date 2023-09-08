@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZevRosenbaum
-- 🌱 I’m currently obtaining an M.S. in Computer Science at Northeastern University
+- 🌱 Check out my [LinkedIn Profile!](https://www.linkedin.com/in/zevrosenbaum82)
 
 <!---
 ZevRosenbaum/ZevRosenbaum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
